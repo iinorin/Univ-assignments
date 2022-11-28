@@ -1,0 +1,16 @@
+table, th, td {
+    border: 1px solid black;
+    /* border-collapse: collapse; */
+    border-spacing: 30px;
+  
+}
+
+th, td {
+    
+    
+  }
+
+  .imgTh{
+   height: 70px;
+    width: 100px;
+  }
